@@ -20,7 +20,8 @@ background:-0-linear-gradient(Odeg, yellow, red); //前缀
 background:-webkit-linear-gradient (@deg, yellow, red); //前缀
 background: linear-gradient (g0deg, yellow, red); 
 }
+```
 
 3. js 检测某个样式是否支持
-img!['https://user-images.githubusercontent.com/33274229/185279789-52ced9a4-f75a-43d0-a2b6-04e927bdb4ee.png']
-<img width="465" alt="image" src="https://user-images.githubusercontent.com/33274229/185279789-52ced9a4-f75a-43d0-a2b6-04e927bdb4ee.png">
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/33274229/185280056-d2d98393-0444-4cc0-8796-3dee072437d0.png">
