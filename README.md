@@ -2,13 +2,13 @@
 css-learning
 
 # css 揭秘
-
+http://play.csssecrets.io/
 ## 前置
 ### 网站
-https://developer.mozilla.org/en-US/docs/Web
-https://webplatform.github.io/
-https://modernizr.com/
-https://caniuse.com/
+1.https://developer.mozilla.org/en-US/docs/Web
+2.https://webplatform.github.io/
+3.https://modernizr.com/
+4.https://caniuse.com/
 
 ### css 兼容
 1. modernizr
