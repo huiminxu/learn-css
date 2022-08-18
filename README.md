@@ -24,4 +24,4 @@ background: linear-gradient (g0deg, yellow, red);
 
 3. js 检测某个样式是否支持
 
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/33274229/185280056-d2d98393-0444-4cc0-8796-3dee072437d0.png">
+<img width="50" alt="image" src="https://user-images.githubusercontent.com/33274229/185280158-ddf4214c-8bcd-4453-bfdb-6e5bd2b4b817.png">
